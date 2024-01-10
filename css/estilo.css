@@ -1,0 +1,31 @@
+.navbar {
+	background-color: #B4DC78;
+  }
+  
+
+#home {
+	background: #B4DC78;
+	color: rgb(248, 248, 248);
+}
+
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e4e4e4;
+}
+
+footer p a {
+	margin: 5px 15px;
+}
+
+
+.tamanho-imagem {
+	max-width: 35%;
+	height: auto;
+  }
+  
+footer {
+    background-color: #B4DC78;
+    padding: 20px;
+    height: 100%;
+}
